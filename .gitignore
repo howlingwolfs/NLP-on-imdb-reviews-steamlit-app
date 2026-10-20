@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE configurations
+.idea/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Distribution / build artifacts
+dist/
+build/
